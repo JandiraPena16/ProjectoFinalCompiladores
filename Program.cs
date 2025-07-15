@@ -101,7 +101,7 @@ namespace AnalisadorCompleto
 
                         public int Soma(int x, int y)
                         {
-                            return 2 + 2;
+                            return 2 + 2
                         }
                 
                         public void MetodoVazio()
@@ -115,7 +115,7 @@ namespace AnalisadorCompleto
 
                         protected void MostrarMensagem()
                         {
-                            Console.WriteLine(""Olá, mundo!"");
+                            Console.WriteLine(""Olá, mundo!"")
                         }
                 
                         public bool VerificarIdade(int idade, bool maioridadeObrigatoria)

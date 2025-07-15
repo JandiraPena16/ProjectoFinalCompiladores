@@ -26,3 +26,4 @@ C:\Users\JandiraPena\Documents\ISPTEC\3º ANO\2º Semestre\Aplicações Web\JPen
 C:\Users\JandiraPena\Documents\ISPTEC\3º ANO\2º Semestre\Aplicações Web\JPenaCompiler\obj\Debug\net8.0\JPenaCompiler.pdb
 C:\Users\JandiraPena\Documents\ISPTEC\3º ANO\2º Semestre\Aplicações Web\JPenaCompiler\obj\Debug\net8.0\JPenaCompiler.genruntimeconfig.cache
 C:\Users\JandiraPena\Documents\ISPTEC\3º ANO\2º Semestre\Aplicações Web\JPenaCompiler\obj\Debug\net8.0\ref\JPenaCompiler.dll
+C:\Users\JandiraPena\Documents\ISPTEC\3º ANO\2º Semestre\Aplicações Web\JPenaCompiler\obj\Debug\net8.0\JPenaCompiler.sourcelink.json
