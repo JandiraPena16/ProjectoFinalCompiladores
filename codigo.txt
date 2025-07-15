@@ -1,0 +1,119 @@
+ using System;
+ using System.Collections.Generic;
+ using System.Linq;
+ using System.Text;
+
+ namespace JPenaCompiler
+ {
+     class Program
+     {
+         int x;
+         int x = ""João"";
+         string nome = ""João"";
+
+         if (x > y) 
+             x = x + 1;
+         else 
+             y = y - 1;
+
+         for (i = 0; i < numeros; i++)
+         {
+             Console.WriteLine(numeros[i]);
+         }                
+
+         while (i < numeros)
+         {
+             int x = ""João"";
+         }
+
+         do
+         {
+            
+         } while (i < numeros);
+
+         foreach (int numero in numeros)
+         {
+         }
+
+         switch (numero)
+         {
+             case 1:
+                 Console.WriteLine(""Você escolheu UM."");
+                 break;
+             case 2:
+                 Console.WriteLine(""Você escolheu DOIS."");
+                 break;
+             case 3:
+                 Console.WriteLine(""Você escolheu TRÊS."");
+                 break;
+             default:
+                 Console.WriteLine(""Número fora do intervalo."");
+                 break;
+         }
+
+         switch (fruta)
+         {
+             case ""maçã"":
+                 Console.WriteLine(""Você escolheu maçã."");
+                 break;
+             case ""banana"":
+                 Console.WriteLine(""Você escolheu banana."");
+                 break;
+             case ""uva"":
+                 Console.WriteLine(""Você escolheu uva."");
+                 break;
+             default:
+                 Console.WriteLine(""Fruta desconhecida."");
+                 break;
+         }
+             
+         int numero = 2;
+
+         switch (numero)
+         {
+             case 1:
+                 Console.WriteLine(""Fruta desconhecida."");
+                 int numero = 2;
+                 break;
+             case 2:
+                 break;
+             default:
+                 break;
+         }
+
+         public int Soma(int x, int y)
+         {
+             return 2 + 2;
+         }
+ 
+         public void MetodoVazio()
+         {
+         }
+
+         private float CalcularArea(float largura, float altura)
+         {
+             return largura * altura;
+         }
+
+         protected void MostrarMensagem()
+         {
+             Console.WriteLine(""Olá, mundo!"");
+         }
+ 
+         public bool VerificarIdade(int idade, bool maioridadeObrigatoria)
+         {
+             if (maioridadeObrigatoria)
+             {
+                 return idade >= 18;
+             }
+             else
+             {
+                 return true;
+             }
+         }
+            
+         foreach (int numero in numeros)
+         {
+         }
+     }
+ }
